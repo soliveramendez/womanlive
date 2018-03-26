@@ -1,5 +1,4 @@
-https://github.com/soliveramendez/womanlive/issues/1
-https://imgur.com/a/kkaNs
+![womanlive-preview] https://github.com/soliveramendez/womanlive/issues/1
 
 
 WOMANLIVE
