@@ -1,4 +1,4 @@
-![womanlive-preview] https://github.com/soliveramendez/womanlive/issues/1
+https://github.com/soliveramendez/womanlive/issues/1
 
 
 WOMANLIVE
