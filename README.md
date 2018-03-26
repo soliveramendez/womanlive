@@ -1,4 +1,6 @@
 https://github.com/soliveramendez/womanlive/issues/1
+https://imgur.com/a/kkaNs
+
 
 WOMANLIVE
 Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar enfermedades de carácter graves y catastrófica, conociendo que en la mayoría de los casos, estas enfermedades generalmente no tienen síntomas, y por este motivo es necesario la concientización a través de la información y su planificación adecuada, tal cual lo afirma el Ministerio de Salud, a través de su plan de evaluación periódica de salud -EMPA-Examen de Salud Preventiva Adulto, que se encuentra disponible en el servicio de salud pública, “que tiene el propósito de pesquisar tempranamente enfermedades o condiciones prevenibles y controlables y la mortalidad asociada a ellas”1, que causan un fuerte golpe emocional y económico en las familias Chilenas.
