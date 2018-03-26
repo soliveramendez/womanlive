@@ -5,7 +5,9 @@ Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar 
 
 
 1 https://fonasaweb.fonasa.cl/portal_fonasa/site/artic/20140621/pags/20140621174214.html
+
 PLANIFICACIÓN Y PLANTEAMIENTO
+
 En una primera instancia para la ejecución del proyecto se analizan y determinan las herramientas que se utilizarán para el logro del objetivo de acuerdo con el proceso de diseño centrado en el usuario.
 Luego de esto se elabora un Excel con las actividades diarias que se proyectarán cumplir para obtener la creación de un servicio exitoso, basado en los usuarios.
 
@@ -59,6 +61,7 @@ Además, cuenta información importante del programa de salud preventiva para la
 
 
 SÍNTESIS Y DEFINICIÓN
+
 AFFINITY MAP
 En esta etapa del proceso se agrupan las necesidades de los usuarios por categoría.
 
@@ -119,18 +122,20 @@ La posible solución sería recordar a la profesora a través de una notificaci�
 Se construye el viaje de nuestro usuario.
 
 IDEACIÓN
+
 Con la problemática definida se elabora contenido.
 PROTOTYPE
 Luego se crea el prototipo4.
 
 
 TESTEO
+
 Se realiza testeo con los usuarios de edad promedio entre los 20 y 30 años encontrando inconsistencias en el diseño, que se trata de solucionar volviéndolo más comprensible el mismo. Se mejora la información entregada a los usuarios respecto al objetivo de la APPWEB, tomando esta opción debido a que la mayoría de las mujeres no descarga aplicaciones a su celular.
 
 
 
-
-
 4https://www.figma.com/proto/fItiMUJEqpE7itUaKuVNKk2J/Untitled?scaling=contain&node-id=7%3A2
+
 CONCLUSIÓN
+
 Los usuarios necesitan de una aplicación fácil y rápida para lograr el control de sus exámenes de salud, conociendo que por el ritmo de vida de las personas son limitaciones que impiden una práctica de prevención contra enfermedades que son catastróficas para todas las mujeres y sus familias.  
