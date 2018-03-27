@@ -91,7 +91,7 @@ Se desprende que no existe una cultura de prevención de enfermedades graves o c
 USER PERSONA
 Para entender los deseos, metas y limitaciones de nuestros usuarios se define el user persona.
 
-
+![user persona](https://user-images.githubusercontent.com/32302490/37946728-4d893788-315d-11e8-91ab-f254d8d8f612.png)
 
 PROBLEM STATEMENT
 Si existiera una forma de recordar a las usuarias sus exámenes preventivos de salud.
