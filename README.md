@@ -14,6 +14,8 @@ Luego de esto se elabora un Excel con las actividades diarias que se proyectará
 
 PROCESO DE DISEÑO
 
+![procesodiseno](https://user-images.githubusercontent.com/32302490/37945508-fb626fac-3156-11e8-8f5a-a2fddd7cb06b.png)
+
 DESCUBRIMIENTO E INVESTIGACIÓN
 Se trata de responder 3 grandes preguntas, ¿Qué necesitan los usuarios?, ¿Qué quieren los usuarios? y si utilizarán aquello en lo estamos trabajando. Para esto se efectúa lo siguiente.
 
@@ -22,6 +24,7 @@ Tratamos de entender la situación actual del usuario.
 Confección de encuesta online que se envían a las redes sociales, entregándonos las siguientes respuestas:
 
 En esta fase del proceso se utiliza Google forms 2
+
 
 
 
