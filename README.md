@@ -3,7 +3,6 @@
 Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar enfermedades de carácter graves y catastrófica, conociendo que en la mayoría de los casos, estas enfermedades generalmente no tienen síntomas, y por este motivo es necesario la concientización a través de la información y su planificación adecuada, tal cual lo afirma el Ministerio de Salud, a través de su plan de evaluación periódica de salud -EMPA-Examen de Salud Preventiva Adulto, que se encuentra disponible en el servicio de salud pública, “que tiene el propósito de pesquisar tempranamente enfermedades o condiciones prevenibles y controlables y la mortalidad asociada a ellas”, que causan un fuerte golpe emocional y económico en las familias Chilenas.
 
 ![womanlive](https://user-images.githubusercontent.com/32302490/37931977-a916c57e-311d-11e8-9779-cae29dae4d59.png)
-![womanlive2](https://user-images.githubusercontent.com/32302490/37945364-3a7b7964-3156-11e8-843e-e3c435808834.png)
 
 
 PLANIFICACIÓN Y PLANTEAMIENTO
@@ -140,10 +139,13 @@ Con la problemática definida se elabora contenido.
 
 PROTOTYPE
 Luego se crea el prototipo4.
+
+![womanlive2](https://user-images.githubusercontent.com/32302490/37945364-3a7b7964-3156-11e8-843e-e3c435808834.png)
+
 4https://www.figma.com/proto/fItiMUJEqpE7itUaKuVNKk2J/Untitled?scaling=contain&node-id=7%3A2
 
 TESTEO
-Se realiza testeo con los usuarios de edad promedio entre los 20 y 30 años encontrando inconsistencias en el diseño, que se trata de solucionar volviéndolo más comprensible el mismo. Se mejora la información entregada a los usuarios respecto al objetivo de la APPWEB, tomando esta opción debido a que la mayoría de las mujeres no descarga aplicaciones a su celular.
+Se realiza testeo con los usuarios de edad promedio entre los 20 y 30 años encontrando inconsistencias en el diseño, que se trata de solucionar volviéndolo más comprensible. Se mejora la información entregada a los usuarios respecto al objetivo de la web app, tomando esta opción debido a que la mayoría de las mujeres no descarga aplicaciones a su celular.
 
 
 CONCLUSIÓN
