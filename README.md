@@ -55,11 +55,14 @@ En el caso del centro médico Clínica ciudad del Mar (Viña del Mar) se llama p
 BENCHMARK
 Dentro de las páginas web de salud verificadas, se pudo constatar que la mayoría se encuentran asociadas a las clínicas existentes en chile, también existe la página del ministerio de salud que entrega información a toda comunidad respecto de los exámenes de medicina preventiva.
 
+![benchmark](https://user-images.githubusercontent.com/32302490/37946316-2c4fa6b2-315b-11e8-9657-d45c4eacb774.png)
 
 
 Dentro de las páginas destacadas se encuentra ENSAL, donde a través de vídeos, de forma más dinámica les entrega información importante a las mujeres, eliminando mitos existentes en torno a la realización de los exámenes.
 
 Además, cuenta información importante del programa de salud preventiva para las mujeres de acuerdo con su edad.  Y cuenta con un Facebook donde entrega información importante del cuidado de la salud, además de ser una plataforma donde los usuarios se pueden comunicar.
+
+
 
 
 SÍNTESIS Y DEFINICIÓN
