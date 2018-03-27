@@ -136,6 +136,8 @@ Se construye el viaje de nuestro usuario.
 IDEACIÓN
 Con la problemática definida se elabora contenido.
 
+![contenido](https://user-images.githubusercontent.com/32302490/37946973-dbe5f222-315e-11e8-9942-43f8d54346c3.png)
+
 PROTOTYPE
 Luego se crea el prototipo4.
 4https://www.figma.com/proto/fItiMUJEqpE7itUaKuVNKk2J/Untitled?scaling=contain&node-id=7%3A2
