@@ -62,12 +62,13 @@ Dentro de las páginas destacadas se encuentra ENSAL, donde a través de vídeos
 
 Además, cuenta información importante del programa de salud preventiva para las mujeres de acuerdo con su edad.  Y cuenta con un Facebook donde entrega información importante del cuidado de la salud, además de ser una plataforma donde los usuarios se pueden comunicar.
 
-
+![ensal](https://user-images.githubusercontent.com/32302490/37946471-dda93f86-315b-11e8-8cc3-55ccb1248d40.png)
 
 
 SÍNTESIS Y DEFINICIÓN
 AFFINITY MAP
 En esta etapa del proceso se agrupan las necesidades de los usuarios por categoría.
+
 
 
 Se agruparon todos los problemas comunes, comportamientos y actitudes de los usuarios en las siguientes categorías:
