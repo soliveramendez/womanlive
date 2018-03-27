@@ -45,16 +45,16 @@ Para la realización de estos exámenes se debe tener disponible la orden médic
 
 PREPARACIÓN DE MAMOGRAFÍA
 
-
 En el caso del centro médico Clínica ciudad del Mar (Viña del Mar) se llama por teléfono para consultar respecto el PAP y éste se realiza por un ginecólogo por lo que hay que solicitar hora que se entregan con 3 a 4 semanas de espera y la mamografía se entregan con una espera de 4 semanas. El centro médico es reconocido por su trayectoria y la calidad de su servicio en la realización de estos exámenes por tanto las usuarias lo prefieren.
 
-RESPALDO FOTOGRÁFICO
-
-
+![29243624_10215897825502887_8694577991243530240_o](https://user-images.githubusercontent.com/32302490/37945802-5d424f98-3158-11e8-8f9a-7d7776539cd0.jpg)
+![29243670_10215897808582464_5064083865836978176_o](https://user-images.githubusercontent.com/32302490/37945810-6da77688-3158-11e8-9397-cfc2fbbf1496.jpg)
+![Uploading 29249904_10215897827942948_1909318812264562688_o.jpg…]()
 
 
 BENCHMARK
 Dentro de las páginas web de salud verificadas, se pudo constatar que la mayoría se encuentran asociadas a las clínicas existentes en chile, también existe la página del ministerio de salud que entrega información a toda comunidad respecto de los exámenes de medicina preventiva.
+
 
 
 Dentro de las páginas destacadas se encuentra ENSAL, donde a través de vídeos, de forma más dinámica les entrega información importante a las mujeres, eliminando mitos existentes en torno a la realización de los exámenes.
