@@ -127,21 +127,22 @@ El insights es la preocupación que siente la profesora al darse cuenta de que p
 
 5- La posible solución
 La posible solución sería recordar a la profesora a través de una notificación que le avise cuando debe solicitar la hora al ginecólogo para efectuarse el examen PAP y la mamografía, la idea es que en el mismo portal se pueda comunicar con algún centro médico cercano para solicitar la hora en el momento, además de motivar a mujeres a prevenir el cáncer a través de la medicina preventiva informándose y contactando a otras mujeres a través de la web app, empatizando con otras realidades, además de tener en el mismo sitio un respaldo de todos sus exámenes médicos, subiéndose al portal de manera sencilla con una foto, así cada vez que asisten al doctor para una revisión tiene disponible sus exámenes médicos independiente al doctor que asista.
+
+
 Se construye el viaje de nuestro usuario.
+
+![journey map](https://user-images.githubusercontent.com/32302490/37946871-3b10708e-315e-11e8-8565-a5d13b1a232d.png)
 
 IDEACIÓN
 Con la problemática definida se elabora contenido.
+
 PROTOTYPE
 Luego se crea el prototipo4.
-
+4https://www.figma.com/proto/fItiMUJEqpE7itUaKuVNKk2J/Untitled?scaling=contain&node-id=7%3A2
 
 TESTEO
 Se realiza testeo con los usuarios de edad promedio entre los 20 y 30 años encontrando inconsistencias en el diseño, que se trata de solucionar volviéndolo más comprensible el mismo. Se mejora la información entregada a los usuarios respecto al objetivo de la APPWEB, tomando esta opción debido a que la mayoría de las mujeres no descarga aplicaciones a su celular.
 
 
-
-
-
-4https://www.figma.com/proto/fItiMUJEqpE7itUaKuVNKk2J/Untitled?scaling=contain&node-id=7%3A2
 CONCLUSIÓN
 Los usuarios necesitan de una aplicación fácil y rápida para lograr el control de sus exámenes de salud, conociendo que por el ritmo de vida de las personas son limitaciones que impiden una práctica de prevención contra enfermedades que son catastróficas para todas las mujeres y sus familias.  
