@@ -25,24 +25,24 @@ Confección de encuesta online que se envían a las redes sociales, entregándon
 
 En esta fase del proceso se utiliza Google forms 2
 
-
-
+![googleforms](https://user-images.githubusercontent.com/32302490/37945685-bb3ab29e-3157-11e8-8453-2ae4ed384c45.png)
 
 
 2 https://drive.google.com/open?id=1Qzx95vbO48f7sSkRZvtrPIRILPbPAXRGzyfT3mc1xhY
 
 
-
-
-
 RESEARCH CUALITATIVO
-Se realiza entrevistas en terreno en centro médico MEGASALUD (Santiago) y lugares públicos a mujeres de todas las edades, consultándoles respecto a sus hábitos de salud preventiva3. Además, se realiza una observación contextual para conocer como es el comportamiento y la forma de atención de los usuarios de los centros médicos, se descubrió lo siguiente:
+Se realiza entrevistas en terreno en centro médico MEGASALUD (Santiago) y lugares públicos a mujeres de todas las edades, consultándoles respecto a sus hábitos de salud preventiva3. 
+
+
+Además, se realiza una observación contextual para conocer como es el comportamiento y la forma de atención de los usuarios de los centros médicos, se descubrió lo siguiente:
 Las mujeres que se encontraban en el centro médico deben esperar aproximadamente 30 mín. para su atención.
 En MEGASALUD, se conversa con la recepcionista respecto a la solicitud de los exámenes de medicina preventiva: PAP (Papanicolau) y la mamografía. El PAP se realiza por un tecnólogo médico de lunes a viernes en la mañana atendiendo por orden de llegada, en cambio para la mamografía se debe solicitar hora en imagenología de una semana para otra, se comunican con el paciente para recordar del examen.
 Para la realización de estos exámenes se debe tener disponible la orden médica del ginecólogo.
 
 
 3https://drive.google.com/file/d/13nTaWIitj29QOdNn07l4O1xAHvNdi8_k/view?usp=sharing
+
 PREPARACIÓN DE MAMOGRAFÍA
 
 
