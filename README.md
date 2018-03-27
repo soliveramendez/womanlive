@@ -69,6 +69,7 @@ SÍNTESIS Y DEFINICIÓN
 AFFINITY MAP
 En esta etapa del proceso se agrupan las necesidades de los usuarios por categoría.
 
+![mapa](https://user-images.githubusercontent.com/32302490/37946545-5a040430-315c-11e8-9daa-ac621853b194.png)
 
 
 Se agruparon todos los problemas comunes, comportamientos y actitudes de los usuarios en las siguientes categorías:
@@ -89,6 +90,8 @@ Se desprende que no existe una cultura de prevención de enfermedades graves o c
 
 USER PERSONA
 Para entender los deseos, metas y limitaciones de nuestros usuarios se define el user persona.
+
+
 
 PROBLEM STATEMENT
 Si existiera una forma de recordar a las usuarias sus exámenes preventivos de salud.
