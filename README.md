@@ -3,6 +3,8 @@
 Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar enfermedades de carácter graves y catastrófica, conociendo que en la mayoría de los casos, estas enfermedades generalmente no tienen síntomas, y por este motivo es necesario la concientización a través de la información y su planificación adecuada, tal cual lo afirma el Ministerio de Salud, a través de su plan de evaluación periódica de salud -EMPA-Examen de Salud Preventiva Adulto, que se encuentra disponible en el servicio de salud pública, “que tiene el propósito de pesquisar tempranamente enfermedades o condiciones prevenibles y controlables y la mortalidad asociada a ellas”, que causan un fuerte golpe emocional y económico en las familias Chilenas.
 
 ![womanlive](https://user-images.githubusercontent.com/32302490/37931977-a916c57e-311d-11e8-9779-cae29dae4d59.png)
+![womanlive2](https://user-images.githubusercontent.com/32302490/37945364-3a7b7964-3156-11e8-843e-e3c435808834.png)
+
 
 PLANIFICACIÓN Y PLANTEAMIENTO
 En una primera instancia para la ejecución del proyecto se analizan y determinan las herramientas que se utilizarán para el logro del objetivo de acuerdo con el proceso de diseño centrado en el usuario.
