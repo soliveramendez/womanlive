@@ -1,13 +1,8 @@
-https://github.com/soliveramendez/womanlive/issues/1
+# WOMANLIVE
+
+Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar enfermedades de carácter graves y catastrófica, conociendo que en la mayoría de los casos, estas enfermedades generalmente no tienen síntomas, y por este motivo es necesario la concientización a través de la información y su planificación adecuada, tal cual lo afirma el Ministerio de Salud, a través de su plan de evaluación periódica de salud -EMPA-Examen de Salud Preventiva Adulto, que se encuentra disponible en el servicio de salud pública, “que tiene el propósito de pesquisar tempranamente enfermedades o condiciones prevenibles y controlables y la mortalidad asociada a ellas”, que causan un fuerte golpe emocional y económico en las familias Chilenas.
 
 
-WOMANLIVE
-Es una plataforma elaborada para las mujeres con el fin de prevenir y controlar enfermedades de carácter graves y catastrófica, conociendo que en la mayoría de los casos, estas enfermedades generalmente no tienen síntomas, y por este motivo es necesario la concientización a través de la información y su planificación adecuada, tal cual lo afirma el Ministerio de Salud, a través de su plan de evaluación periódica de salud -EMPA-Examen de Salud Preventiva Adulto, que se encuentra disponible en el servicio de salud pública, “que tiene el propósito de pesquisar tempranamente enfermedades o condiciones prevenibles y controlables y la mortalidad asociada a ellas”1, que causan un fuerte golpe emocional y económico en las familias Chilenas.
-
-
-
-
-1 https://fonasaweb.fonasa.cl/portal_fonasa/site/artic/20140621/pags/20140621174214.html
 PLANIFICACIÓN Y PLANTEAMIENTO
 En una primera instancia para la ejecución del proyecto se analizan y determinan las herramientas que se utilizarán para el logro del objetivo de acuerdo con el proceso de diseño centrado en el usuario.
 Luego de esto se elabora un Excel con las actividades diarias que se proyectarán cumplir para obtener la creación de un servicio exitoso, basado en los usuarios.
