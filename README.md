@@ -29,6 +29,9 @@ En esta fase del proceso se utiliza Google forms 2
 
 2 https://drive.google.com/open?id=1Qzx95vbO48f7sSkRZvtrPIRILPbPAXRGzyfT3mc1xhY
 
+Conclusión
+La mayoria de las mujeres encuestadas no conocen los exámenes preventivos de salud asociadas a su edad disponible en el sistema público y privado, no priorizando su asistencia al médico o un centro médico para realizarse los exámenes PAP y la mamografía siendo la tendencia de realización cada 2 años.
+
 
 RESEARCH CUALITATIVO
 Se realiza entrevistas en terreno en centro médico MEGASALUD (Santiago) y lugares públicos a mujeres de todas las edades, consultándoles respecto a sus hábitos de salud preventiva3. 
@@ -52,7 +55,7 @@ En el caso del centro médico Clínica ciudad del Mar (Viña del Mar) se llama p
 
 
 BENCHMARK
-Dentro de las páginas web de salud verificadas, se pudo constatar que la mayoría se encuentran asociadas a las clínicas existentes en chile, también existe la página del ministerio de salud que entrega información a toda comunidad respecto de los exámenes de medicina preventiva.
+Dentro de las páginas web de salud verificadas, se pudo constatar que la mayoría se encuentran asociadas a las clínicas existentes en Chile, también se encuentra disponible la página del ministerio de salud que entrega información a toda comunidad respecto de los exámenes de medicina preventiva.
 
 ![benchmark](https://user-images.githubusercontent.com/32302490/37946316-2c4fa6b2-315b-11e8-9657-d45c4eacb774.png)
 
@@ -98,17 +101,6 @@ Si existiera una página interactiva con información de salud preventiva para m
 Si existiera un lugar donde la usuaria pueda agendar su hora al médico y todo lo relacionado a sus consultas se hiciera a través de una plataforma, con el fin de optimizar su tiempo.
 Si existiera una forma de guardar nuestros exámenes de salud online para no olvidarnos del resultado de estos.
 
-HMW (How might we “Como podríamos”)
-Cómo podríamos recordar realizarse exámenes médicos a las mujeres para mantener nuestra salud óptima y evitar enfermedades graves y catastróficas para la familia.
-Cómo podríamos enseñar a las usuarias la importancia de efectuarse exámenes preventivos de salud de forma simple y dinámica para evitar enfermedades graves y catastróficas para la familia.
-Cómo podríamos evitar el miedo que le produce a las mujeres efectuarse los exámenes de salud ginecológicos, para lograr mantener una periodicidad en su ejecución.
-Cómo podríamos facilitar la recopilación de los exámenes de salud en un solo lugar para evitar perder estos exámenes y tener un historial de tu salud a la mano.
-Cómo podríamos agendar una hora al médico en una plataforma web (llamar-redes sociales-WhatsApp, etc.).
-
-WHAT IF
-Si existiera una plataforma digital donde al ingresar tus datos pudieses acceder a los servicios de recordar cuando tienes que efectuar exámenes de salud y al momento de recordarle que debe realizarse sus exámenes tener acceso al WhatsApp o plataforma de tu centro de salud para solicitar tu hora médica.
-Si existiera una sección dentro de la plataforma digital donde se mostrará información clave a los usuarios y además testimonios de mujeres o focus group donde contestar con otros usuarios y tener una relación más interactiva de confianza de forma de promover la realización de los exámenes evitando así el miedo o la desinformación existente en los usuarios.
-Si existiera una plataforma como una carpeta digital de fácil uso donde poder agrupar tus exámenes de salud, para acceder fácilmente a ellos.
 
 STORYTELLING
 Para entender de forma más cabal la problemática se desarrolla la historia de nuestro usuario.
@@ -135,7 +127,6 @@ Se construye el viaje de nuestro usuario.
 IDEACIÓN
 Con la problemática definida se elabora contenido.
 
-![contenido](https://user-images.githubusercontent.com/32302490/37946973-dbe5f222-315e-11e8-9942-43f8d54346c3.png)
 
 PROTOTYPE
 Luego se crea el prototipo4.
